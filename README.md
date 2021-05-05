@@ -5,5 +5,5 @@
 
 <hr>
 
-[![Bayu Kartiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayukartiko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayukartiko&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bayu Kartiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayukartiko&show_icons=true&theme=radical)](https://github.com/bayukartiko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayukartiko&layout=compact&show_icons=true&theme=radical)](https://github.com/bayukartiko)
