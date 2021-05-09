@@ -14,7 +14,7 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 - [Discord](https://discordapp.com/users/544423153191878657/)
 - [Steam](https://steamcommunity.com/profiles/76561198864676273/)
 
-#### *pls, be friend with me (ಥ﹏ಥ)
+*pls, be friend with me (ಥ﹏ಥ) <br>
 <img src="2.gif">
 
 ---
