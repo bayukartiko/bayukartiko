@@ -8,23 +8,34 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 - 🍜 My favorite food is .. chicken noodle
 
 ---
-## 🤝 be friends with me
+## 🤝 connect with me
 - [Instagram](https://www.instagram.com/bayu_kartiko5758/)
 - [GitHub](https://github.com/bayukartiko)
 - [Discord](https://discordapp.com/users/544423153191878657/)
 - [Steam](https://steamcommunity.com/profiles/76561198864676273/)
 
+#### *pls, be friend with me (ಥ﹏ಥ)
 <img src="2.gif">
 
-#### pls, be friend with me (ಥ﹏ಥ)
 ---
 ## 📈 About my GitHub
 
 <details>
-<summary>My recent GitHub activity</summary>
+  <summary>My GitHub stats</summary>
+  &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=bayukartiko&show_icons=true&theme=radical">
 </details>
 
 <details>
-  <summary>My GitHub stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=bayukartiko&show_icons=true&theme=radical">
+  <summary>My recent GitHub activity</summary>
+</details>
+
+<details>
+  <summary>My portofolio</summary>
+  &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=bayukartiko&repo=ci-BAKAlaundry&show_icons=true&theme=radical"> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayukartiko&repo=_magang_ci3_visitormanagement&show_icons=true&theme=radical">
+</details>
+
+<details>
+  <summary>Most used languages in my projects</summary>
+  &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayukartiko&show_icons=true&theme=radical&langs_count=10&layout=compact">
 </details>
