@@ -1,9 +1,23 @@
-<span align="center">
-  <h1>Bayu Kartiko official GitHub</h1>
-  <h4>Hello world!</h4>
-</span>
+### Bayu Kartiko official GitHub
+## Hello world!
+---
+## be friends with me
+- [Instagram](https://www.instagram.com/bayu_kartiko5758/)
+- [GitHub](https://github.com/bayukartiko)
+- [Discord](https://discordapp.com/users/544423153191878657/)
+- [Steam](https://steamcommunity.com/profiles/76561198864676273/)
 
-<hr>
+<img src="2.gif">
 
-[![Bayu Kartiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayukartiko&show_icons=true&theme=radical)](https://github.com/bayukartiko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayukartiko&layout=compact&show_icons=true&theme=radical)](https://github.com/bayukartiko)
+#### pls, be friend with me (ಥ﹏ಥ)
+---
+## About my GitHub
+
+<details>
+<summary>My recent GitHub activity</summary>
+</details>
+
+<details>
+  <summary>My GitHub stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=bayukartiko&show_icons=true&theme=radical">
+</details>
