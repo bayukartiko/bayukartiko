@@ -18,6 +18,8 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 
 <details>
   <summary>My recent GitHub activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 <details>
