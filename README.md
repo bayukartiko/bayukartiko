@@ -6,7 +6,7 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 - 🏡 I live and grow in ... Indonesia
 - 🎮 My favorite game is .. [Genshin Impact](https://genshin.mihoyo.com/) and [Osu!](https://osu.ppy.sh/)
 - 🍜 My favorite food is .. chicken noodle
-- 💡 I'm currently learning .. [Google Cloud Platform Course in YouTube](https://youtube.com/playlist?list=PLVHgQku8Z935Aa9cgzfbv9VtLGuiwHjD2)
+- 💡 I'm currently learning .. [Google Cloud Platform Course in Dicoding](https://www.dicoding.com/academies/133)
 
 ---
 ## 📈 About my GitHub
