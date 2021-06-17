@@ -12,22 +12,22 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 ## ✅ My certificates
 <details>
   <summary>Learn basic web programming from https://dicoding.com/</summary>
-  &nbsp;&nbsp;&nbsp; <img src="2.gif">
+  &nbsp;&nbsp;&nbsp; <img src="sertifikat_course_123_282704_130621135137.jpg">
 </details>
 
 <details>
   <summary>Learn basic google cloud engineer from https://www.dicoding.com/academies/133</summary>
-  &nbsp;&nbsp;&nbsp; <img src="2.gif">
+  &nbsp;&nbsp;&nbsp; <img src="sertifikat_course_133_1515446_140621102738.jpg">
 </details>
 
 <details>
   <summary>Database Administration Fundamentals</summary>
-  &nbsp;&nbsp;&nbsp; <img src="2.gif">
+  &nbsp;&nbsp;&nbsp; <img src="Database Administration Fundamentals.jpg">
 </details>
 
 <details>
   <summary>HTML5 Application Development Fundamentals</summary>
-  &nbsp;&nbsp;&nbsp; <img src="2.gif">
+  &nbsp;&nbsp;&nbsp; <img src="HTML5 Application Development Fundamentals.jpg">
 </details>
 
 ---
