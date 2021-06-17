@@ -11,7 +11,7 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 ---
 ## ✅ My certificates
 <details>
-  <summary>Learn basic web programming from https://dicoding.com/</summary>
+  <summary>Learn basic web programming from https://www.dicoding.com/academies/123</summary>
   &nbsp;&nbsp;&nbsp; <img src="sertifikat_course_123_282704_130621135137.jpg">
 </details>
 
