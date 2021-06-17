@@ -59,6 +59,7 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 ---
 ## 🤝 connect with me
 - [Instagram](https://www.instagram.com/bayu_kartiko5758/)
+- [Linkedin](https://www.linkedin.com/in/bayu-kartiko-1656581b5/)
 - [GitHub](https://github.com/bayukartiko)
 - [Discord](https://discordapp.com/users/544423153191878657/)
 - [Steam](https://steamcommunity.com/profiles/76561198864676273/)
