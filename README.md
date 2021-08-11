@@ -1,12 +1,5 @@
 ### Hello there 👋!, welcome to my GitHub
-I'm currently a student in `Taruna Bhakti vocational high school` as a `software engineer` major
-
----
-## 🔍 About me
-- 🏡 I live and grow in ... Indonesia
-- 🎮 My favorite game is .. [Genshin Impact](https://genshin.mihoyo.com/) and [Osu!](https://osu.ppy.sh/)
-- 🍜 My favorite food is .. chicken noodle
-- 💡 I'm currently learning .. [Google Cloud Platform Course in Coursera](https://www.coursera.org/learn/gcp-fundamentals)
+I'm currently a ...
 
 ---
 ## ✅ My certificates
@@ -66,3 +59,6 @@ I'm currently a student in `Taruna Bhakti vocational high school` as a `software
 
 *pls, be friend with me (ಥ﹏ಥ) <br>
 <img src="2.gif">
+
+---
+![ViewCount](https://komarev.com/ghpvc/?username=bayukartiko&color=1A4730)
